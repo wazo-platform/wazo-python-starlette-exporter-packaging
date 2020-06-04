@@ -18,3 +18,7 @@ Depends:
  ${misc:Depends},
  ${python3:Depends},
 Description: Prometheus exporter for Starlette and FastAPI.
+  The middleware collects basic metrics:
+  - Counter: starlette_requests_total
+  - Histogram: starlette_request_duration_seconds
+  Metrics include labels for the HTTP method, the path, and the response status code.
