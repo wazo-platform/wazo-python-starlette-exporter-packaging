@@ -1,6 +1,6 @@
 # wazo-python-starlette-exporter-packaging
 
-Debian packaging for [python3-starlette_exporter](https://github.com/stephenhillier/starlette_exporter) used in Wazo.
+Debian packaging for [python3-starlette-exporter](https://github.com/stephenhillier/starlette_exporter) used in Wazo.
 
 ## Upgrading
 
