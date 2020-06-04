@@ -4,7 +4,7 @@ Debian packaging for [python3-starlette-exporter](https://github.com/stephenhill
 
 ## Upgrading
 
-To upgrade python-starlette_exporter
+To upgrade python-starlette-exporter
 
 * Update the version number in the `VERSION` file
 * Update the changelog using `dch -i` to the matching version
