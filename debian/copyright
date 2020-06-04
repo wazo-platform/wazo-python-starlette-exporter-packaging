@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2020 The Wazo Authors  (see the AUTHORS file)
+Upstream-Name: starlette_exporter
+Source: https://github.com/stephenhillier/starlette_exporter
+
+Files: *
+Copyright: Stephen Hillier
+License: Apache-2
+
+Files: debian/*
+Copyright: 2020 The Wazo Authors (see the AUTHORS file)
+License: GPL-3
