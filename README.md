@@ -20,4 +20,3 @@ debian/rules get-orig-source
 debuild -us -uc
 ```
 The `.deb` will be located in the parent directory.
-
