@@ -1,3 +1,9 @@
+wazo-python-starlette-exporter-packaging (0.15.1-1~wazo1) wazo-dev-buster; urgency=medium
+
+  * Version 0.15.1
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 17 Feb 2023 13:54:17 -0500
+
 wazo-python-starlette-exporter-packaging (0.3.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Initial release
