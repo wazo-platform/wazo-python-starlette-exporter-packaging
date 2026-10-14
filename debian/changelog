@@ -1,3 +1,10 @@
+wazo-python-starlette-exporter-packaging (0.17.1-1~wazo1) wazo-dev-bookworm; urgency=medium
+
+  * Bump version 0.17.1, the newest release compatible with starlette
+    0.26.1 (bookworm)
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 14 Oct 2026 17:41:39 -0400
+
 wazo-python-starlette-exporter-packaging (0.15.1-1~wazo5) wazo-dev-bookworm; urgency=medium
 
   * Rebuild for Bookworm
